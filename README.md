@@ -1,1 +1,1 @@
-# Работа из zfs описана в файле work_with_zfs.sh
+# Работа c zfs описана в файле work_with_zfs.sh
