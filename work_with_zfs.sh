@@ -11,7 +11,7 @@ reboot
 
 # загрука драйвера ZFS
 
-modprome zfs
+modprobe zfs
 lsmod | grep zfs
 
 #######################################
